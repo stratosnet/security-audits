@@ -1,0 +1,11 @@
+vue/node_modules
+vue/dist
+vue/.cache
+build
+target
+vendor/
+.idea/
+playground.go
+/tmp-swagger-gen/
+/github.com/
+.DS_Store
